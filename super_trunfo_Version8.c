@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    char nome1[51] = "Curitiba", nome2[51] = "Florianopolis";
+    char nome1[51] = "Curitiba", nome2[51] = "Florianopoliss";
     int pop1 = 1774000, pop2 = 537000;
 
     printf("Cidade 1: %s | Habitantes: %d\n", nome1, pop1);
